@@ -5,5 +5,3 @@ This is some text that I'm writing that needs to be saved.
 Blah blah blah blah blah, blah blah blah, blah blah.
 
 There is no longer a typo in this file.
-
-Making changes to files, need to commit this to the main branch but not publish this.
